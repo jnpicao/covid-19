@@ -3,3 +3,4 @@ plots/*
 .ipynb_checkpoints/report-checkpoint.ipynb
 .ipynb_checkpoints/draft_and_test-checkpoint.ipynb
 .ipynb_checkpoints/import_db-checkpoint.ipynb
+export_report_to_html.txt
